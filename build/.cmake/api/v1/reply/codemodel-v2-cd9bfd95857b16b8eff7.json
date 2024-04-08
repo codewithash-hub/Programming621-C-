@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Programming621_C_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Programming621_C_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Programming621_C_-Debug-7c00ed5ab23d5fe50fa0.json",
+					"name" : "Programming621_C_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build",
+		"source" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
