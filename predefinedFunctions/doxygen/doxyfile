@@ -9,7 +9,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = policyRate
+PROJECT_NAME           = predefinedFunctions
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
@@ -91,7 +91,7 @@ WARN_IF_UNDOCUMENTED   = NO
 WARN_IF_DOC_ERROR      = YES
 WARN_NO_PARAMDOC       = YES
 WARN_FORMAT            = "$file:$line: $text"
-WARN_LOGFILE            = "C:\Users\ASHB#ATZ\Desktop\S.O.P\Richfield\BSC IT_YEAR 2\Semester 1\Programming 621\Programming621-C-\policyRate\doxygen\doxygen.log"
+WARN_LOGFILE            = "C:\Users\ASHB#ATZ\Desktop\S.O.P\Richfield\BSC IT_YEAR 2\Semester 1\Programming 621\Programming621-C-\predefinedFunctions\doxygen\doxygen.log"
 #---------------------------------------------------------------------------
 # configuration options related to the input files
 #---------------------------------------------------------------------------
@@ -150,7 +150,7 @@ DOCSET_BUNDLE_ID       = org.doxygen.Project
 DOCSET_PUBLISHER_ID    = org.doxygen.Publisher
 DOCSET_PUBLISHER_NAME  = Publisher
 GENERATE_HTMLHELP      = NO
-CHM_FILE               = "../policyRate.chm"
+CHM_FILE               = "../predefinedFunctions.chm"
 HHC_LOCATION           =
 GENERATE_CHI           = NO
 CHM_INDEX_ENCODING     =
