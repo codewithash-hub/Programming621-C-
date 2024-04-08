@@ -1,0 +1,3 @@
+C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build/CMakeFiles/Programming621_C_.dir
+C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build/CMakeFiles/edit_cache.dir
+C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build/CMakeFiles/rebuild_cache.dir
