@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715156386 source:c:\users\ashb#atz\desktop\s.o.p\richfield\bsc it_year 2\semester 1\programming 621\programming621-c-\rolling_a pair_of_dice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

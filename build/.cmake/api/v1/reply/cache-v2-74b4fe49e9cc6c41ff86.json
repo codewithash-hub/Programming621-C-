@@ -1274,6 +1274,42 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "Programming621-C__BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build"
+		},
+		{
+			"name" : "Programming621-C__IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Programming621-C__SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-"
+		},
+		{
 			"name" : "Programming621_C__BINARY_DIR",
 			"properties" : 
 			[
@@ -1299,6 +1335,42 @@
 		},
 		{
 			"name" : "Programming621_C__SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-"
+		},
+		{
+			"name" : "Project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build"
+		},
+		{
+			"name" : "Project_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Project_SOURCE_DIR",
 			"properties" : 
 			[
 				{

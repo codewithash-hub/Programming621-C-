@@ -242,6 +242,15 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+Programming621-C__BINARY_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build
+
+//Value Computed by CMake
+Programming621-C__IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Programming621-C__SOURCE_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-
+
+//Value Computed by CMake
 Programming621_C__BINARY_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build
 
 //Value Computed by CMake
@@ -249,6 +258,15 @@ Programming621_C__IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Programming621_C__SOURCE_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-
+
+//Value Computed by CMake
+Project_BINARY_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-/build
+
+//Value Computed by CMake
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=C:/Users/ASHB#ATZ/Desktop/S.O.P/Richfield/BSC IT_YEAR 2/Semester 1/Programming 621/Programming621-C-
 
 
 ########################
