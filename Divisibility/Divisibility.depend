@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1711007328 source:c:\users\ashb#atz\desktop\s.o.p\richfield\bsc it_year 2\semester 1\programming 621\programming621-c-\divisibility\main.cpp
 	<iostream>
 
+=======
+# depslib dependency file v1.0
+1711007328 source:c:\users\ashb#atz\desktop\s.o.p\richfield\bsc it_year 2\semester 1\programming 621\programming621-c-\divisibility\main.cpp
+	<iostream>
+
+>>>>>>> cc9c6f04f4603c4db8a7ea8fc472c3e60e22da89
